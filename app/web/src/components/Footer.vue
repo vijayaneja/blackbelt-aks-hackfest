@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Test Azure Global Blackbelt Team
+        Vijay Test Azure Global Blackbelt Team
       </div>
       <div class="col-lg-6">
       </div>
